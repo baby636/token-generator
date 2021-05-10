@@ -37,7 +37,7 @@
   "homepage": "https://github.com/findhit/token-generator",
   "devDependencies": {
     "chai": "^2.2.0",
-    "mocha": "^2.2.1"
+    "mocha": "^4.0.0"
   },
   "dependencies": {
     "debug": "^2.1.3",
